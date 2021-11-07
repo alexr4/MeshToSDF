@@ -8,4 +8,4 @@ Please see the original project from Aman Tiwari for full implementation: https:
 * [ ] Scale by is a public params, could it be dynamic ?
 * [ ] Sample Thickness ? Try it with a Raymarching material
 * [ ] Can the SDF be filled (right now it's hollow)
-* [ ] Add Trail
+* [ ] Add Trail using a second dedicated script
